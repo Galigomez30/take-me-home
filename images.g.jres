@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQAA4AAAAAAADw/wAAAAAAAPDdDwAAAP8OAB/xAADwHeEA8PH/AN8d7/4fEfEA3+EeHRMR/wDf8REZMd0PAPAREREx0fEAAB4RMTER/wAAHhExMREPAOARERExEQ8AH+EdGTER8QAf8d0R/f//AB/R/v4PAAAA/xHtAAAAAAAA/w4AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pamela"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
